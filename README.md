@@ -72,7 +72,7 @@ streamlit run app.py
 
 I have followed the YouTube tutorial of "Siddardhan"
 
-[Click for Video Link](https://www.youtube.com/watch?v=fw5rkjq4Tfo&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=3)
+[Click for Video Link](https://www.youtube.com/watch?v=8Q_QQVQ1HZA)
 
 ## Authors
 
@@ -80,15 +80,15 @@ I have followed the YouTube tutorial of "Siddardhan"
 
 ## Documentation
 
-[Click the link to study XGBoost regression](analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/)
+[Click the link to study Support Vector Machine](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
 
 
 ## Installation
-
+VSCode as IDE and Streamlit installation is required.
     
 ## Lessons Learned
 
-This is very basic classification problem which could be solved by above mentioned steps in Introduction.
+End to end machine learning prediction and classification problem solving approach is learnt, along with Front end UI app development and deployment on localhost with the help of Streamlit.
 
 ## 🚀 About Me
 I'm a DATA SCIENCE enthusiast...
