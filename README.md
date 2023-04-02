@@ -17,8 +17,8 @@ This project is the compilation of three different prediction systems, are as fo
 ## Multiple Disease prediction system
 ### Steps to be followed for prejects deployment
 
-***1.As Diabetes Detection system,Parkinson's Disease Detection and Heart Disease prediction system are three different machine learning projects.
-Three files are ***
+***1.As Diabetes Detection system,Parkinson's Disease Detection and Heart Disease prediction system are three different machine learning projects.***
+Three files are 
 
 1.1 Project_2_SVM_Diabetes_Prediction.ipynb
 
@@ -59,7 +59,7 @@ Three files are
 
 Multiple disease prediction.py
 
-***4.All the three projects are deployed on localhost using streamlit. ***
+***4.All the three projects are deployed on localhost using streamlit.***
 
 ## Run
 
