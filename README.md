@@ -15,7 +15,7 @@ This project is the compilation of three different prediction systems, are as fo
 ![001](https://user-images.githubusercontent.com/114944969/229349494-e8c40721-4276-4d66-86f3-072856164da5.jpeg)
 
 ## Multiple Disease prediction system
-### Steps to be followed for prejects deployment
+### Steps to be followed for projects deployment
 
 ***1.As Diabetes Detection system,Parkinson's Disease Detection and Heart Disease prediction system are three different machine learning projects.***
 Three files are 
