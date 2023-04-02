@@ -17,8 +17,8 @@ This project is the compilation of three different prediction systems, are as fo
 ## Multiple Disease prediction system
 ### Steps to be followed for prejects deployment
 
-1.As Diabetes Detection system,Parkinson's Disease Detection and Heart Disease prediction system are three different machine learning projects.
-Three files are 
+***1.As Diabetes Detection system,Parkinson's Disease Detection and Heart Disease prediction system are three different machine learning projects.
+Three files are ***
 
 1.1 Project_2_SVM_Diabetes_Prediction.ipynb
 
@@ -26,7 +26,7 @@ Three files are
 
 1.3 Project 14 Parkinson's Disease Detection.ipynb
 
-Basic Steps are followed to make prediction(ML) models
+**Basic Steps are followed to make prediction(ML) models**
 
 Step1. Importing Dependencies
 
@@ -45,7 +45,7 @@ Step7. Coding UI App with streamlit
 Step8. Run the app
 
 
-2.All three projects are saved differently as .sav files different folder using pickle.
+***2.All three projects are saved differently as .sav files different folder using pickle.***
 
 Three files are 
 
@@ -55,11 +55,11 @@ Three files are
 
 2.3 parkinson_model.sav
 
-3.Prediction system UI also coded in Streamlit.
+***3.Prediction system UI also coded in Streamlit.***
 
 Multiple disease prediction.py
 
-4.All the three projects are deployed on localhost using streamlit. 
+***4.All the three projects are deployed on localhost using streamlit. ***
 
 ## Run
 
