@@ -4,13 +4,19 @@ This project is the compilation of three different prediction systems, are as fo
 
 **1.Diabetes Detection system**
 
+ML Model is trained using Support Vector machine algorithm and predicts if person is having diabetes or not based on 8 input parameters.
+
 ![003](https://user-images.githubusercontent.com/114944969/229349478-cc931230-bdef-4482-b4e4-af775d92087f.jpeg)
 
 **2.Parkinson's Disease Detection**
 
+ML Model is trained using Support Vector machine algorithm and predicts if person is having Parkinson's or not based on 22 input parameters.
+
 ![002](https://user-images.githubusercontent.com/114944969/229349487-0e4554ae-9c0d-4321-9c64-c968395ab97e.jpeg)
 
 **3.Heart Disease prediction system**
+
+ML Model is trained using Logistics Regression algorithm and predicts if person is having Heart Disease or not based on 13 input parameters.
 
 ![001](https://user-images.githubusercontent.com/114944969/229349494-e8c40721-4276-4d66-86f3-072856164da5.jpeg)
 
